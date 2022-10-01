@@ -1,2 +1,2 @@
 # Arcane
-Team Arcane's ArcanEye app
+Team Arcane's 'ArcanEye' app 
